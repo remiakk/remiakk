@@ -22,10 +22,10 @@
 
 <!-- ![Profile views](https://gpvc.arturio.dev/tahawrld) -->
 
-[![Discord Profile](https://lanyard-profile-readme.vercel.app/api/194713725029187585?theme=dark&bg=272727)](https://discord.com/users/194713725029187585)
+[![Discord Profile](https://lanyard.cnrad.dev/api/194713725029187585)](https://discord.com/users/194713725029187585)]
 
 ## 🏆 Trophies
-[![](https://github-profile-trophy.vercel.app/?username=tahawrld&theme=juicyfresh&rank=S,SS,SSS,A,AA,AAA,SECRET,B,BB,BBB,C,CC,CCC)][repo]
+[![](https://github-profile-trophy.vercel.app/?username=shwrey&theme=juicyfresh&rank=S,SS,SSS,A,AA,AAA,SECRET,B,BB,BBB,C,CC,CCC)][repo]
 
 <!-- <a href="http://www.github.com/tahawrld"><img src="https://activity-graph.herokuapp.com/graph?username=tahawrld&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 
@@ -36,7 +36,7 @@
 <a href="https://www.instagram.com/tahacgil"> 
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram"/>
 </a>
-<a href="https://discord.com/users/1135675379298869401"> 
+<a href="https://discord.com/users/194713725029187585"> 
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" title="Discord"  alt="Discord"/>
 </a>
 <a href="https://www.youtube.com/@tahawrld"> 

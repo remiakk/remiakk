@@ -6,7 +6,7 @@
 <br/>**I love the logic and structure of coding and always strive to write elegant and efficient code, whether it be HTML, CSS, or JavaScript.**
 <br />**I have 3+ Years of experience in discord bot development.**
 <br/><br/>👀 **Check out my website** --> <a href="#cooming-soon"><b>sharey.pro</b></a>
-<!-- <img src="https://github-readme-stats.vercel.app/api/?username=tahawrld&show_icons=true" alt="git stats"> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api/?username=shwrey&show_icons=true" alt="git stats"> -->
 
 
 ## Fun Fact 🎈:
@@ -20,14 +20,14 @@
 • 📫 You can reach me via <a href="https://discord.com/users/194713725029187585"><b>Discord</b></a> & <a href="https://www.instagram.com/tahacgil"><b>Instagram</b></a><br/>
 </span>
 
-<!-- ![Profile views](https://gpvc.arturio.dev/tahawrld) -->
+<!-- ![Profile views](https://gpvc.arturio.dev/shwrey) -->
 
 [![Discord Profile](https://lanyard.cnrad.dev/api/194713725029187585)](https://discord.com/users/194713725029187585)]
 
 ## 🏆 Trophies
 [![](https://github-profile-trophy.vercel.app/?username=shwrey&theme=juicyfresh&rank=S,SS,SSS,A,AA,AAA,SECRET,B,BB,BBB,C,CC,CCC)][repo]
 
-<!-- <a href="http://www.github.com/tahawrld"><img src="https://activity-graph.herokuapp.com/graph?username=tahawrld&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
+<!-- <a href="http://www.github.com/shwrey"><img src="https://activity-graph.herokuapp.com/graph?username=shwrey&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 
 <br />
 
@@ -39,7 +39,7 @@
 <a href="https://discord.com/users/194713725029187585"> 
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" title="Discord"  alt="Discord"/>
 </a>
-<a href="https://www.youtube.com/@tahawrld"> 
+<a href="https://www.youtube.com/@shwrey"> 
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" title="Youtube"  alt="Youtube"/>
 </a>
 <!-- <a href="mailto:eren@baygun.net"> 
@@ -172,7 +172,7 @@
 [gog]: https://www.geeksforgeeks.org/
 [fcc]: https://www.freecodecamp.org/
 [sof]: https://stackoverflow.com/
-[repo]: https://github.com/tahawrld?tab=repositories
+[repo]: https://github.com/shwrey?tab=repositories
 
 <hr />
 
@@ -182,6 +182,6 @@
 
 [![](https://ForTheBadge.com/images/badges/built-with-love.svg)][repo]
 
-<!-- ![](https://img.shields.io/github/followers/tahawrld?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917) -->
+<!-- ![](https://img.shields.io/github/followers/shwrey?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917) -->
 
-<!--  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tahawrld&theme=onedark) -->
+<!--  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shwrey&theme=onedark) -->

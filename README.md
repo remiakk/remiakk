@@ -15,7 +15,7 @@
 
 • 🔭 I’m currently working on <b>something cool!</b> <br/>
 • 👯 I’m looking to collaborate on cool project.<br/>
-- 🌱 I currently know HTML, CSS, PHP, TypeScript, Javascript, C++, C#.<br/>
+- 🌱 I currently know HTML, CSS, PHP, Javascript.<br/>
 • 💬 Ask me about <b>Discord Bots</b>, I am happy to help.<br/>
 • 📫 You can reach me via <a href="https://discord.com/users/194713725029187585"><b>Discord</b></a> & <a href="https://www.instagram.com/tahacgil"><b>Instagram</b></a><br/>
 </span>

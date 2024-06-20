@@ -22,7 +22,7 @@
 
 <!-- ![Profile views](https://gpvc.arturio.dev/shwrey) -->
 
-[![Discord Profile](https://lanyard.cnrad.dev/api/194713725029187585)](https://discord.com/users/194713725029187585)
+[![Discord Profile](https://lanyard.cnrad.dev/api/335912854874095616)](https://discord.com/users/335912854874095616)
 
 ## 🏆 Trophies
 [![](https://github-profile-trophy.vercel.app/?username=shwrey&theme=juicyfresh&rank=S,SS,SSS,A,AA,AAA,SECRET,B,BB,BBB,C,CC,CCC)[repo]

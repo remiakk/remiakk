@@ -18,4 +18,4 @@ enum true_math
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/335912854874095616?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/335912854874095616)
                     
 
-<img src="https://komarev.com/ghpvc/?username=Eirxne&label=Ziyaretçi%20Sayısı&color=351c75" alt="Eirene" />
+<img src="https://komarev.com/ghpvc/?username=shwrey&label=Ziyaretçi%20Sayısı&color=351c75" alt="Sharey" />
